@@ -909,3 +909,23 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+
+ <table>
+  <tr>
+    <td>Name</td>
+    <td>Talha Ansari</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/talha-ansarii</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/talha-ansarii</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Delhi Technological University</td>
+  </tr>
+</table>
